@@ -1,6 +1,5 @@
 # certificate-editor
-Modify the template pdf to process new certificate.
-This has been tested on Mac.
+This repo can be used to create certificate pdf's. It can be used by printing services. Modify the template pdf to process new certificate. Make sure to update the .env file. 
 
 
 ## Installation
