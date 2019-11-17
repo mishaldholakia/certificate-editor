@@ -1,0 +1,19 @@
+{
+    "name": "pdf",
+    "version": "1.0.0",
+    "description": "Modify existing template.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mishal Dholakia",
+    "license": "ISC",
+    "dependencies": {
+        "csv-parser": "^2.3.1",
+        "csv2json": "^2.0.0",
+        "dotenv": "^8.2.0",
+        "fs-extra": "^8.1.0",
+        "hummus-recipe": "^1.8.23"
+    }
+}
